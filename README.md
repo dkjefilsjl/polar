@@ -14,14 +14,13 @@
 ### 2. Link
  > https://www.42polar.kr/
 
-### 3. Polar Team
+### 3. Stacks
 
 
 ### 4. What's 42polar
 
 
-### 5. Stacks
+### 5. Polar Team
 
 
-### 6. 주요 기능
 

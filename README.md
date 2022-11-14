@@ -43,12 +43,22 @@
   > > <img src="https://user-images.githubusercontent.com/46805289/201667758-60b5c281-ffd7-4cca-9434-777a6bc78840.png" width="50%" height="50%"> <br>
   > > * 멘토님의 시간표를 확인할 수 있어요
   > > * 멘토님의 세부 소개를 확인할 수 있어요
+  > > * 해당 멘토님의 멘토링 후기를 확인할 수 있어요
+<br>
+
+> ### 4.3 Mentor-detail
+  > > <img src="https://user-images.githubusercontent.com/46805289/201670619-57cdd210-0efa-4ee2-bd79-88d0ad86938b.png" width="50%" height="50%"> <br>
+  > > <img src="https://user-images.githubusercontent.com/46805289/201670672-7edfa1b2-4643-43af-9aa0-8e551944d36e.png" width="50%" height="50%"> <br>
+  > > * 원하는 멘토님 시간표에 맞게 멘토링을 신청할 수 있어요
+  > > * 최대 3가지의 요청 시간을 선택할 수 있어요
+
+
 <br>
 
 
 
 
-### 5. Polar Team 🐾
+## 5. Polar Team 🐾
 
 
 

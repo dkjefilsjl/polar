@@ -59,9 +59,9 @@
 
 
 ## 5. Polar Team 🐾
-| <img src="https://user-images.githubusercontent.com/46805289/201671778-5c05fdeb-b0a0-4ddc-8cc5-83e7f4558ff4.jpg" width="20%" height="20%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201672550-82244f9c-a052-41f1-aa80-9320375d4ff7.png" width="20%" height="20%" align="center"> |
-|:----------|:----------:|
-| 박서연: FE | 김지윤: FE |
+| <img src="https://user-images.githubusercontent.com/46805289/201671778-5c05fdeb-b0a0-4ddc-8cc5-83e7f4558ff4.jpg" width="30%" height="30%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201672550-82244f9c-a052-41f1-aa80-9320375d4ff7.png" width="20%" height="20%" align="center"> |
+|:----------:|:----------:|
+| **박서연: FE** | **김지윤: FE** |
 
 
 

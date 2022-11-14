@@ -15,7 +15,7 @@
  > https://www.42polar.kr/
 
 ### 3. Stacks 🦉
-<img src="https://img.shields.io/badge/React-blueviolet?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_S3-green?style=flat-square&logo=Amazon S3&logoColor=white"/> <img src="https://img.shields.io/badge/Styled_components-pink?style=flat-square&logo=styled-components&logoColor=black"/> <img src="https://img.shields.io/badge/ESLint-violet?style=flat-square&logo=ESLint&logoColor=black"/> 
+<img src="https://img.shields.io/badge/React-blueviolet?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_S3-green?style=flat-square&logo=Amazon S3&logoColor=white"/> <img src="https://img.shields.io/badge/Styled_components-pink?style=flat-square&logo=styled-components&logoColor=black"/> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=black"/> 
 
 ### 4. What's 42polar 🐣
 

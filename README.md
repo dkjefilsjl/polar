@@ -15,7 +15,7 @@
  > https://www.42polar.kr/
 
 ### 3. Stacks
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 
 ### 4. What's 42polar
 

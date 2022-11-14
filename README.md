@@ -12,7 +12,7 @@
  > > **42bocal** : 보고서 확인 및 출력 <br>
   
 ### 2. Link
-
+ > https://www.42polar.kr/
 
 ### 3. Polar Team
 

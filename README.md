@@ -1,9 +1,9 @@
 42polar project
 =============
 
-### 1. Introduce
+## 1. Introduce
 -------------
- * #### 1.1 42polar란?
+ * ### 1.1 42polar란?
   
 ### 2. Link
 -------------

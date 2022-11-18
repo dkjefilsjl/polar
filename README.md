@@ -15,7 +15,9 @@
 
 ## 2. Link ✔
 
- > https://www.42polar.kr/
+ > 홈페이지 : https://www.42polar.kr/
+ > 개발블로그 : 
+ > 공부기록 : 
 
 <br>
 

@@ -25,7 +25,7 @@
 
 <br>
 
-## 4. What's 42polar 🐣
+## 4. 42polar Service 🐣
 > ### 4.1 Main-page
   > <img src="https://user-images.githubusercontent.com/46805289/201665439-b7c6df88-833f-4c08-a08e-7d243192878b.png" width="50%" height="50%" /> <br>
   > * 자신이 원하는 분야를 선택할 수 있어요

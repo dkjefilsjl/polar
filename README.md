@@ -82,11 +82,11 @@
 ## 5. Polar Team 🐾
 | <img src="https://user-images.githubusercontent.com/46805289/201671778-5c05fdeb-b0a0-4ddc-8cc5-83e7f4558ff4.jpg" width="30%" height="30%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201672550-82244f9c-a052-41f1-aa80-9320375d4ff7.png" width="20%" height="20%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201671778-5c05fdeb-b0a0-4ddc-8cc5-83e7f4558ff4.jpg" width="30%" height="30%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201672550-82244f9c-a052-41f1-aa80-9320375d4ff7.png" width="20%" height="20%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201671778-5c05fdeb-b0a0-4ddc-8cc5-83e7f4558ff4.jpg" width="30%" height="30%" align="center"> |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| **박서연: FE** | **김지윤: FE** | **박서연: FE** | **김지윤: FE** | **박서연: FE** |
+| **강주현: FE, BE** | **공현솔: FE, BE** | **김강현: BE** | **김나경: BE** | **김지윤: FE** |
 
 <br>
 
 | <img src="https://user-images.githubusercontent.com/46805289/201672550-82244f9c-a052-41f1-aa80-9320375d4ff7.png" width="20%" height="20%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201671778-5c05fdeb-b0a0-4ddc-8cc5-83e7f4558ff4.jpg" width="30%" height="30%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201672550-82244f9c-a052-41f1-aa80-9320375d4ff7.png" width="20%" height="20%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201671778-5c05fdeb-b0a0-4ddc-8cc5-83e7f4558ff4.jpg" width="30%" height="30%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201672550-82244f9c-a052-41f1-aa80-9320375d4ff7.png" width="20%" height="20%" align="center"> |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| **김지윤: FE** | **박서연: FE** | **김지윤: FE** | **박서연: FE** | **김지윤: FE** |
+| **박서연: FE** | **박정규: BE** | **서준환: FE** | **유종석: FE** | **주종현: BE** |
 

@@ -65,7 +65,7 @@
 
 > ### 4.6 Mentoring - mentor
   > <img src="https://user-images.githubusercontent.com/46805289/202891761-4f40f26e-ee73-4e55-9e8f-5170804fef7c.png" width="50%" height="50%"> <br>
-  > * 지금까지의 멘토링을 확인, 수락, 거절등 할 수 있어요
+  > * 지금까지의 멘토링을 확인, 수락, 거절 등 할 수 있어요
   > * 보고서를 보다 쉽게 작성하고 제출할 수 있어요
   <br>
 

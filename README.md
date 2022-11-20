@@ -35,8 +35,7 @@
 <br>
 
 > ### 4.2 Mentor-list
-  > <img src="https://user-images.githubusercontent.com/46805289/202892020-99ceac2d-778e-4f0b-87cf-9f71c61888a5.png
-" width="50%" height="50%" > <br>
+  > <img src="https://user-images.githubusercontent.com/46805289/202892020-99ceac2d-778e-4f0b-87cf-9f71c61888a5.png" width="50%" height="50%" > <br>
   > * 세부 카테고리 별 멘토님을 만나볼 수 있어요
   > * 현재 멘토링을 진행 중인 멘토님을 모아볼 수 있어요
 <br>

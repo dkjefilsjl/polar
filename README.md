@@ -83,7 +83,6 @@
 | <img src="https://user-images.githubusercontent.com/46805289/201671778-5c05fdeb-b0a0-4ddc-8cc5-83e7f4558ff4.jpg" width="30%" height="30%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201672550-82244f9c-a052-41f1-aa80-9320375d4ff7.png" width="20%" height="20%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201671778-5c05fdeb-b0a0-4ddc-8cc5-83e7f4558ff4.jpg" width="30%" height="30%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201672550-82244f9c-a052-41f1-aa80-9320375d4ff7.png" width="20%" height="20%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201671778-5c05fdeb-b0a0-4ddc-8cc5-83e7f4558ff4.jpg" width="30%" height="30%" align="center"> |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | **강주현: FE, BE** | **공현솔: FE, BE** | **김강현: BE** | **김나경: BE** | **김지윤: FE** |
-|:----------:|:----------:|:----------:|:----------:|:----------:|
 | git: https://github.com/Joo-hyun-Kang  | git: https://github.com/besyia0k0 | git: https://github.com/kanghyki | git: https://github.com/rurruur | git: https://github.com/kjy00 |
 
 <br>
@@ -91,6 +90,5 @@
 | <img src="https://user-images.githubusercontent.com/46805289/201672550-82244f9c-a052-41f1-aa80-9320375d4ff7.png" width="20%" height="20%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201671778-5c05fdeb-b0a0-4ddc-8cc5-83e7f4558ff4.jpg" width="30%" height="30%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201672550-82244f9c-a052-41f1-aa80-9320375d4ff7.png" width="20%" height="20%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201671778-5c05fdeb-b0a0-4ddc-8cc5-83e7f4558ff4.jpg" width="30%" height="30%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201672550-82244f9c-a052-41f1-aa80-9320375d4ff7.png" width="20%" height="20%" align="center"> |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | **박서연: FE** | **박정규: BE** | **서준환: FE** | **유종석: FE** | **주종현: BE** |
-|:----------:|:----------:|:----------:|:----------:|:----------:|
 | git: https://github.com/dkjefilsjl | git: https://github.com/jeounpar | git: https://github.com/Seojunhwan | git: https://github.com/dbwhdtjr0457 | git: https://github.com/jooocy |
 

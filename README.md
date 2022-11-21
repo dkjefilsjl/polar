@@ -50,7 +50,12 @@
 
 ## 4. Diagram 🔥
 
-  <img src="https://user-images.githubusercontent.com/46805289/202971942-3d5fa485-f200-4ba7-928c-2fd023df822e.png" width="70%" height="70%" /> <br>
+ - ### Architecture <br>
+  <img src="https://user-images.githubusercontent.com/46805289/202971942-3d5fa485-f200-4ba7-928c-2fd023df822e.png" width="50%" height="50%" /> <br>
+
+ - ### ERD <br>
+  <img src="https://user-images.githubusercontent.com/46805289/202990780-0cad0c08-aad5-4820-8bde-945dd5f882df.png" width="50%" height="50%" /> <br>
+
 
 
 ## 5. 42polar Service 🐣

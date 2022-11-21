@@ -1,6 +1,8 @@
 42polar project
 =============
 
+<br>
+
 ## 0. 목차 🌟
 
  - [Introduce](#1-Introduce-)
@@ -9,6 +11,8 @@
  - [프로젝트 구조](#4-Diagram-)
  - [프로젝트 내용](#5-42polar-Service-)
  - [팀 소개](#6-polar-team-)
+
+<br>
 
 ## 1. Introduce 🎉
 

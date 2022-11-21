@@ -80,7 +80,7 @@
 
 
 ## 5. Polar Team 🐾
-| <img src="https://user-images.githubusercontent.com/46805289/201671778-5c05fdeb-b0a0-4ddc-8cc5-83e7f4558ff4.jpg" width="40%" height="40%" align="center"> | <img src="https://avatars.githubusercontent.com/u/71981659?v=4" width="30%" height="30%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201671778-5c05fdeb-b0a0-4ddc-8cc5-83e7f4558ff4.jpg" width="40%" height="40%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201672550-82244f9c-a052-41f1-aa80-9320375d4ff7.png" width="30%" height="30%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201672550-82244f9c-a052-41f1-aa80-9320375d4ff7.png" width="30%" height="30%" align="center"> |
+| <img src="https://cdn.intra.42.fr/users/0bcc2ea502990db624dee72d7e2278cd/jokang.jpg" width="40%" height="40%" align="center"> | <img src="https://avatars.githubusercontent.com/u/71981659?v=4" width="30%" height="30%" align="center"> | <img src="https://cdn.intra.42.fr/users/95a6ed870052e0ecc629eb63a1e276c8/kanghyki.jpg" width="40%" height="40%" align="center"> | <img src="https://cdn.intra.42.fr/users/0a886368a314dfe57b38cabc38c063b4/nakkim.jpg" width="40%" height="40%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201672550-82244f9c-a052-41f1-aa80-9320375d4ff7.png" width="30%" height="30%" align="center"> |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | **강주현: FE, BE** | **공현솔: FE, BE** | **김강현: BE** | **김나경: BE** | **김지윤: FE** |
 | git: https://github.com/Joo-hyun-Kang  | git: https://github.com/besyia0k0 | git: https://github.com/kanghyki | git: https://github.com/rurruur | git: https://github.com/kjy00 |

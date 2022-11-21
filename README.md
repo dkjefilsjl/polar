@@ -18,7 +18,8 @@
  > 홈페이지 : https://www.42polar.kr/ <br>
  > 개발블로그 : <br>
  > 공부기록 : <br>
- > figma : <br>
+ > figma_pc : https://www.figma.com/file/nSElac6eVtP6sycHtZnjrk/%ED%8F%B4%EB%9D%BC-ver1.1-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=77%3A1869&t=tgvFKPhLRKpIGjQH-1 <br>
+ > figma_mobile : https://www.figma.com/file/nSElac6eVtP6sycHtZnjrk/%ED%8F%B4%EB%9D%BC-ver1.1-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=0%3A1&t=tgvFKPhLRKpIGjQH-1 <br>
 
 <br>
 

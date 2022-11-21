@@ -29,7 +29,7 @@
 ## 2. Link ✔
 
  - [42polar 홈페이지](https://www.42polar.kr/) <br>
- - [개발 기록] : <br>
+ - [회의록](https://velog.io/@6792kjs/42polar-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B86%EC%9B%94%ED%9A%8C%EC%9D%98%EB%A1%9D)<br>
  - [공부기록] : <br>
  - [Figma_pc](https://www.figma.com/file/nSElac6eVtP6sycHtZnjrk/%ED%8F%B4%EB%9D%BC-ver1.1-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=77%3A1869&t=tgvFKPhLRKpIGjQH-1) <br>
  - [Figma_mobile](https://www.figma.com/file/nSElac6eVtP6sycHtZnjrk/%ED%8F%B4%EB%9D%BC-ver1.1-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=0%3A1&t=tgvFKPhLRKpIGjQH-1) <br>

@@ -1,5 +1,6 @@
 42polar project
 =============
+[Introduce](#1.-Introduce-🎉)
 
 ## 1. Introduce 🎉
 
@@ -29,7 +30,12 @@
 
 <br>
 
-## 4. 42polar Service 🐣
+## 4. Diagram 🔥
+
+  <img src="https://user-images.githubusercontent.com/46805289/202971942-3d5fa485-f200-4ba7-928c-2fd023df822e.png" width="70%" height="70%" /> <br>
+
+
+## 5. 42polar Service 🐣
 > ### 4.1 Main-page
   > <img src="https://user-images.githubusercontent.com/46805289/202891893-2b1695e2-ff50-4368-b657-88faf34a9466.png" width="50%" height="50%" /> <br>
   > * 자신이 원하는 분야를 선택할 수 있어요
@@ -81,16 +87,27 @@
 
 
 
-## 5. Polar Team 🐾
-| <img src="https://cdn.intra.42.fr/users/0bcc2ea502990db624dee72d7e2278cd/jokang.jpg" width="40%" height="40%" align="center"> | <img src="https://avatars.githubusercontent.com/u/71981659?v=4" width="30%" height="30%" align="center"> | <img src="https://cdn.intra.42.fr/users/95a6ed870052e0ecc629eb63a1e276c8/kanghyki.jpg" width="40%" height="40%" align="center"> | <img src="https://cdn.intra.42.fr/users/0a886368a314dfe57b38cabc38c063b4/nakkim.jpg" width="40%" height="40%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201672550-82244f9c-a052-41f1-aa80-9320375d4ff7.png" width="30%" height="30%" align="center"> |
-|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **강주현: FE, BE** | **공현솔: FE, BE** | **김강현: BE** | **김나경: BE** | **김지윤: FE** |
-| git: https://github.com/Joo-hyun-Kang  | git: https://github.com/besyia0k0 | git: https://github.com/kanghyki | git: https://github.com/rurruur | git: https://github.com/kjy00 |
+## 6. Polar Team 🐾
 
-<br>
 
-| <img src="https://user-images.githubusercontent.com/46805289/201671778-5c05fdeb-b0a0-4ddc-8cc5-83e7f4558ff4.jpg" width="40%" height="40%" align="center"> | <img src="https://avatars.githubusercontent.com/u/34067179?v=4" width="40%" height="40%" align="center"> | <img src="https://avatars.githubusercontent.com/u/72878284?v=4" width="35%" height="35%" align="center"> | <img src="https://cdn.intra.42.fr/users/25ec24c4d02e655452e0778874ef8d4e/joyoo.jpg" width="30%" height="30%" align="center"> | <img src="https://avatars.githubusercontent.com/u/88752693?v=4" width="40%" height="40%" align="center"> |
-|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **박서연: FE** | **박정규: BE** | **서준환: FE** | **유종석: FE** | **주종현: BE** |
-| git: https://github.com/dkjefilsjl | git: https://github.com/jeounpar | git: https://github.com/Seojunhwan | git: https://github.com/dbwhdtjr0457 | git: https://github.com/jooocy |
+> Polar FE
 
+| <img src="https://user-images.githubusercontent.com/46805289/201672550-82244f9c-a052-41f1-aa80-9320375d4ff7.png" width="30%" height="30%" align="center"> | <img src="https://user-images.githubusercontent.com/46805289/201671778-5c05fdeb-b0a0-4ddc-8cc5-83e7f4558ff4.jpg" width="40%" height="40%" align="center"> | <img src="https://avatars.githubusercontent.com/u/72878284?v=4" width="40%" height="40%" align="center"> | <img src="https://cdn.intra.42.fr/users/25ec24c4d02e655452e0778874ef8d4e/joyoo.jpg" width="30%" height="30%" align="center"> |
+|:----------:|:----------:|:----------:|:----------:|
+| **김지윤: FE** | **박서연: FE** | **서준환: FE** | **유종석: FE** |
+| git: https://github.com/kjy00 | git: https://github.com/dkjefilsjl | git: https://github.com/Seojunhwan | git: https://github.com/dbwhdtjr0457 |
+
+> Polar BE
+
+
+| <img src="https://cdn.intra.42.fr/users/95a6ed870052e0ecc629eb63a1e276c8/kanghyki.jpg" width="40%" height="40%" align="center"> | <img src="https://cdn.intra.42.fr/users/0a886368a314dfe57b38cabc38c063b4/nakkim.jpg" width="40%" height="40%" align="center"> | <img src="https://avatars.githubusercontent.com/u/34067179?v=4" width="40%" height="40%" align="center"> | <img src="https://avatars.githubusercontent.com/u/88752693?v=4" width="40%" height="40%" align="center"> |
+|:----------:|:----------:|:----------:|:----------:|
+| **김강현: BE** | **김나경: BE** | **박정규: BE** | **주종현: BE** |
+| git: https://github.com/kanghyki | git: https://github.com/rurruur | git: https://github.com/jeounpar | git: https://github.com/jooocy |
+
+> Polar FE, BE
+
+| <img src="https://cdn.intra.42.fr/users/0bcc2ea502990db624dee72d7e2278cd/jokang.jpg" width="15%" height="15%" align="center"> | <img src="https://avatars.githubusercontent.com/u/71981659?v=4" width="40%" height="40%" align="center"> ||
+|:----------:|:----------:|----------|
+| **강주현: FE, BE** | **공현솔: FE, BE** ||
+| git: https://github.com/Joo-hyun-Kang  | git: https://github.com/besyia0k0 ||

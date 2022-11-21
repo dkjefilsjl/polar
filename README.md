@@ -1,4 +1,4 @@
-42polar project
+🙋‍♀️ **42polar project**
 =============
 
 <br>
@@ -119,7 +119,7 @@
 
 > Polar FE, BE
 
-| <img src="https://cdn.intra.42.fr/users/0bcc2ea502990db624dee72d7e2278cd/jokang.jpg" width="15%" height="15%" align="center"> | <img src="https://avatars.githubusercontent.com/u/71981659?v=4" width="40%" height="40%" align="center"> ||
-|:----------:|:----------:|----------|
-| **강주현: FE, BE** | **공현솔: FE, BE** ||
-| git: https://github.com/Joo-hyun-Kang  | git: https://github.com/besyia0k0 ||
+| <img src="https://cdn.intra.42.fr/users/0bcc2ea502990db624dee72d7e2278cd/jokang.jpg" width="15%" height="15%" align="center"> | <img src="https://avatars.githubusercontent.com/u/71981659?v=4" width="40%" height="40%" align="center"> |
+|:----------:|:----------:|
+| **강주현: FE, BE** | **공현솔: FE, BE** |
+| git: https://github.com/Joo-hyun-Kang  | git: https://github.com/besyia0k0 |

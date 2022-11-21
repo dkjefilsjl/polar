@@ -1,11 +1,11 @@
 42polar project
 =============
-[Introduce](##1.-Introduce-🎉)
-[링크](##2.-Link-✔)
-[stacks](##3.-Stacks-🦉)
-[프로젝트 구조](##4.-Diagram-🔥)
-[프로젝트 내용](##5.-42polar-Service-🐣)
-[팀 소개](##6.-Polar-Team-🐾)
+[Introduce](#1-Introduce-)
+[링크](#2-Link-)
+[stacks](#3-Stacks-)
+[프로젝트 구조](#4-Diagram-)
+[프로젝트 내용](#5-42polar-Service-)
+[팀 소개](#6-polar-team-)
 
 ## 1. Introduce 🎉
 

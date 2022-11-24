@@ -56,7 +56,7 @@
 
 - ### ERD <br>
  　 　
-<img src="https://user-images.githubusercontent.com/46805289/202990780-0cad0c08-aad5-4820-8bde-945dd5f882df.png" width="50%" height="50%" /> <br>
+<img src="https://user-images.githubusercontent.com/46805289/203727152-ca544165-8a51-46f7-8eb4-63951bb50e54.png" width="50%" height="50%" /> <br>
 
 <br>
 
